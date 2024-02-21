@@ -1,5 +1,7 @@
 create database library;
+
 use library;
+
 create table user
 (
     id   bigint auto_increment,
